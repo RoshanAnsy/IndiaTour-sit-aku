@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IndiaTour-sit-aku/static/css/main.dba3b57a.css",
+    "main.js": "/IndiaTour-sit-aku/static/js/main.eb428702.js",
+    "index.html": "/IndiaTour-sit-aku/index.html",
+    "main.dba3b57a.css.map": "/IndiaTour-sit-aku/static/css/main.dba3b57a.css.map",
+    "main.eb428702.js.map": "/IndiaTour-sit-aku/static/js/main.eb428702.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dba3b57a.css",
+    "static/js/main.eb428702.js"
+  ]
+}
